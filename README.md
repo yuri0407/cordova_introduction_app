@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF5F92&fontColor=ffffff&height=200&section=header&text=cordova_introduction_app&fontSize=35&fontAlignY=30&desc=컴퓨터정보과 소개 앱&descSize=20&descAlignY=47)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF5F92&fontColor=ffffff&height=200&section=header&text=cordova_introduction_app&fontSize=35&fontAlignY=30&desc=컴퓨터정보과%20소개%20앱&descSize=20&descAlignY=47)
 
 ### About
 컴퓨터정보과에 대한 내용이 담겨있는 모바일 앱입니다.
